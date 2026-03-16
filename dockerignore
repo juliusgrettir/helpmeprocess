@@ -1,0 +1,7 @@
+
+Then create `.dockerignore` in the same root folder:
+```
+node_modules
+.next
+.git
+.env
